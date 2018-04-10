@@ -50,7 +50,7 @@ var queryFromClickSearchNotURL = false;
  */
 var INITIAL_ZOOM_LEVEL = 11;
 var MONTH_NAMES = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-var API_ACCESS_KEY = 'AIzaSyAEcfhZe0akd47CTYaEOWQ1bLCCbLUfVEY';
+var API_ACCESS_KEY = 'AIzaSyD1jJq7mzHMwo_W1PNvj9fcpj_fKl9Nddg';
 
 var CAR_REGEX = /\d{4} (?:dodge|chevy|ford|toyota|bmw|mercedes|honda|chrysler|pontiac|hyundai|audi|jeep|scion|cadillac|volks|acura|lexus|suburu|nissan|mazda|suzuki|buick|gmc|chevrolet|lincoln|infiniti|mini|hummer|porsche|volvo|land|kia|saturn|mitsubishi)/i;
 
